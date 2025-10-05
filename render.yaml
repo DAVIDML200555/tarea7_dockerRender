@@ -4,6 +4,6 @@ services:
     env: docker
     plan: free
     branch: main
-    repo: https://github.com/cristianclc/tarea7_dockerRender.git
+    repo: https://github.com/DAVIDML200555/tarea7_dockerRender.git
     dockerfilePath: ./Dockerfile
     autoDeploy: true
